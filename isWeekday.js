@@ -4,4 +4,4 @@ function isWeekday(week){
   
   }
   
-  console.log(isWeekday("Wednesday"))
+  console.log(isWeekday("Monday"))
